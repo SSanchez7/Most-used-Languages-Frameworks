@@ -6,5 +6,5 @@ Final presentation in files `PresentacionFinal.pdf` and `PresentacionFinal.pptx`
 
 In the folder `tagByRace` are the videos of the bar races.
 
-the data in `tagByDate` and `tagByDate2` was previously processed with Apache Spark in Python as a massive data processing tool
+The data in `tagByDate` and `tagByDate2` was previously processed with Apache Spark in Python as a massive data processing tool
  
