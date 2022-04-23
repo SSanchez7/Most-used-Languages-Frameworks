@@ -2,4 +2,6 @@
 Massive data processing project of the most used languages and frameworks, according to questions and answers tags.
 This project was carried out in conjunction with Benjamin Mellado and Alonso Vargas.
 
-Presentacion final en los archivo `PresentacionFinal.pdf` y `PresentacionFinal.pptx`
+Final presentation in files `PresentacionFinal.pdf` and `PresentacionFinal.pptx`.
+
+in the folder `tagByRace` are the videos of the bar races.
