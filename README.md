@@ -4,4 +4,4 @@ This project was carried out in conjunction with Benjamin Mellado and Alonso Var
 
 Final presentation in files `PresentacionFinal.pdf` and `PresentacionFinal.pptx`.
 
-in the folder `tagByRace` are the videos of the bar races.
+In the folder `tagByRace` are the videos of the bar races.
